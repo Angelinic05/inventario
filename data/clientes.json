@@ -1,0 +1,79 @@
+{
+    "1002": {
+        "123": {
+            "cc": "123",
+            "nombre": "Mario",
+            "apellidos": "Pinto",
+            "emailpersonal": "ddd",
+            "emailcorporativo": "fff",
+            "edad": 12,
+            "telefono": [
+                {
+                    "titulo": "Casa",
+                    "valor": "44444"
+                }
+            ]
+        },
+        "cc": "1002",
+        "nombre": "Angeli",
+        "apellidos": "Corr",
+        "emailpersonal": "ange",
+        "emailcorporativo": "jsjs",
+        "edad": 12,
+        "telefono": "312"
+    },
+    "1002760477": {
+        "1002": {
+            "123": {
+                "cc": "123",
+                "nombre": "Mario",
+                "apellidos": "Pinto",
+                "emailpersonal": "ddd",
+                "emailcorporativo": "fff",
+                "edad": 12,
+                "telefono": [
+                    {
+                        "titulo": "Casa",
+                        "valor": "44444"
+                    }
+                ]
+            },
+            "cc": "1002",
+            "nombre": "Ange",
+            "apellidos": "Corr",
+            "emailpersonal": "ange",
+            "emailcorporativo": "jsjs",
+            "edad": 21,
+            "telefono": [
+                {
+                    "titulo": "casa",
+                    "valor": "345678"
+                }
+            ]
+        },
+        "cc": "1002760477",
+        "nombre": "Angeli",
+        "apellidos": "Corredor",
+        "emailpersonal": "angeliloza",
+        "emailcorporativo": "angeliopte",
+        "edad": 21,
+        "telefono": [
+            {
+                "titulo": "casa",
+                "valor": "3103396"
+            }
+        ]
+    },
+    "cc": "1002760477",
+    "nombre": "Angeli",
+    "apellidos": "Corredor",
+    "emailpersonal": "a",
+    "emailcorporativo": "d",
+    "edad": 21,
+    "telefono": [
+        {
+            "titulo": "casa",
+            "valor": "310"
+        }
+    ]
+}
